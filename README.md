@@ -1,0 +1,2 @@
+# TriggCam
+Camera images archive
